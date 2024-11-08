@@ -2,11 +2,12 @@
 opengrok/docker
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-mysql
-redis
-zookeeper
-hadoop
+#mysql
+#redis
+#zookeeper
+sequenceiq/hadoop-docker:2.7.1
 yarnpkg/yarn
 yarn
 spark-history-server:2.4.5
 spark-history-server
+registry.cn-hangzhou.aliyuncs.com/hadoop_test/hadoop_base
