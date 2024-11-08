@@ -6,4 +6,3 @@ spark-history-server:2.4.5
 spark-history-server
 registry.cn-hangzhou.aliyuncs.com/hadoop_test/hadoop_base
 kiwenlau/hadoop:1.0
-yarn
