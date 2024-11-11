@@ -4,5 +4,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-registry.cn-hangzhou.aliyuncs.com/hadoop_test/hadoop_base
-kiwenlau/hadoop:1.0
+#registry.cn-hangzhou.aliyuncs.com/hadoop_test/hadoop_base
+#kiwenlau/hadoop:1.0
+docker-compose
