@@ -6,5 +6,5 @@
 
 #registry.cn-hangzhou.aliyuncs.com/hadoop_test/hadoop_base
 #kiwenlau/hadoop:1.0
-hbase
-zookeeper:3.5
+
+harisekhon/hbase
