@@ -1,4 +1,6 @@
 #mysql
 #redis
 #zookeeper
+
+#registry.cn-hangzhou.aliyuncs.com/hadoop_test/hadoop_base
 #harisekhon/hbase
