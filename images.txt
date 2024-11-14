@@ -7,4 +7,5 @@
 #registry.cn-hangzhou.aliyuncs.com/hadoop_test/hadoop_base
 #kiwenlau/hadoop:1.0
 
-harisekhon/hbase
+hive
+
