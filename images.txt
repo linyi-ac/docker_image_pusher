@@ -3,8 +3,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-
 #registry.cn-hangzhou.aliyuncs.com/hadoop_test/hadoop_base
-#kiwenlau/hadoop:1.0
-
-apache/hive:4.0.0
+#harisekhon/hbase
+#apache/hive:4.0.0
