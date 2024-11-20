@@ -7,4 +7,4 @@
 #harisekhon/hbase
 #apache/hive:4.0.0
 #mysql:5.7
-postgres:12.3
+postgres:14
