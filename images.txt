@@ -6,4 +6,5 @@
 #registry.cn-hangzhou.aliyuncs.com/hadoop_test/hadoop_base
 #harisekhon/hbase
 #apache/hive:4.0.0
-mysql:5.7
+#mysql:5.7
+hive-metastore-postgresql
