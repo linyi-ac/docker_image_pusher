@@ -7,4 +7,6 @@
 #harisekhon/hbase
 #apache/hive:4.0.0
 #mysql:5.7
-postgres:15.6
+#postgres:15.6
+dms-dhs.hikvision.com/icc/icc
+dms-dhs.hikvision.com/icc/icc:latest
