@@ -9,4 +9,5 @@
 #mysql:5.7
 #postgres:15.6
 #dms-dhs.hikvision.com/icc/icc
-dms-dhs.hikvision.com/icc/icc:latest
+#dms-dhs.hikvision.com/icc/icc:latest
+mongo:4.4
