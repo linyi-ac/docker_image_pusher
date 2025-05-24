@@ -12,4 +12,5 @@
 #dms-dhs.hikvision.com/icc/icc:latest
 #mongo:4.4
 #elasticsearch:6.4.3
-rabbitmq:3-management
+#rabbitmq:3-management
+rabbitmq
