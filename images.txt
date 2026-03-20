@@ -15,4 +15,4 @@
 #rabbitmq:3-management
 #rabbitmq
 #thtom/rustdesk-server
-openclaw
+node:22
