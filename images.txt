@@ -14,4 +14,5 @@
 #elasticsearch:6.4.3
 #rabbitmq:3-management
 #rabbitmq
-thtom/rustdesk-server
+#thtom/rustdesk-server
+openclaw
