@@ -15,4 +15,5 @@
 #rabbitmq:3-management
 #rabbitmq
 #thtom/rustdesk-server
-node:22
+#node:22
+node:22-alpine
